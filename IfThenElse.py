@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import os
 if os.path.isdir("/tmp"):
-    print "/tmp is a directory"
+    print("/tmp is a directory")
 else:
-    print "/tmp is not a directory"
+    print("/tmp is not a directory")
